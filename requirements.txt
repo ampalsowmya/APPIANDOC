@@ -1,0 +1,8 @@
+Flask
+pytesseract
+pdfplumber
+spacy
+scikit-learn
+pickle
+pdf2image
+PyPDF2
